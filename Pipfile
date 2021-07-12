@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 django = "*"
 quilt = "*"
+quilt3 = "*"
+ipython = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.8"
